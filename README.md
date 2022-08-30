@@ -43,7 +43,7 @@ body_camera: indicates an officer was wearing a body camera or not during the sh
 ----
 
 #Data Cleaning
-The dataset was loaded into PowerBI and transformed using power query. null and duplicate values were checked and some columns had to be some columns were dropped which wasn't find suitable to give answer to the objective of the problem.
+The dataset was loaded into PowerBI and transformed using power query. null and duplicate values were checked and some columns were dropped which wasn't find suitable to give answer to the objective of the problem.
 ----
 #Findings
 Recorded victims = 5,762
